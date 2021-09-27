@@ -1,0 +1,9 @@
+name: CcWt
+version: 1.0
+author: Aryanbhai
+main: me.Aryanbhai.CcWt.Main
+description: Plugin made for codercraft
+
+commands:
+   ccwtgui:
+      description: opens items gui!
