@@ -8,6 +8,6 @@ public class npcClick implements Listener{
 	@EventHandler
 	public void onClick(RightClickNPC e) {
 		Player player = e.getPlayer();
-		player.sendMessage("DIS IT WORK?");
+		player.sendMessage("yo bit");
 	}
 }
